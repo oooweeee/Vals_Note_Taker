@@ -1,7 +1,12 @@
 [
     {
-        "title": "testing notes",
-        "text": "these are the notes",
-        "id": "0a83114d-2f54-4e28-849e-bd4c25f5afb2"
+        "title": "new note",
+        "text": "this is a note\n",
+        "id": "1aed50bf-68e7-4a9e-941f-ad661ddff660"
+    },
+    {
+        "title": "This is a Example",
+        "text": "hello my name is Val and i love web development. late night weekend are usually a make up of me staring at my computer in wonder and curiosity.",
+        "id": "2816d3a5-169c-4c67-853e-cb72b5979f8a"
     }
 ]
